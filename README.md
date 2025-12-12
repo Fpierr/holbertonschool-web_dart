@@ -17,6 +17,8 @@ In this project, we will begin with the fundamentals, printing output, working w
 - [Write command-line apps](https://dart.dev/tutorials/server/cmdline)
 - [Dart compile](https://dart.dev/tools/dart-compile)
 - [Dart Pad](https://dartpad.dev/)
+- [Asynchronous Programming in Dart](https://dart.dev/libraries/async/async-await)
+- [Asynchronous Programming in Dart and Flutter](https://dart.academy/asynchronous-programming-in-dart-and-flutter/)
 
 
 ## Learning Objectives
