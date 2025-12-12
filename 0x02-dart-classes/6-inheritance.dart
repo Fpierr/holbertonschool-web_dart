@@ -21,7 +21,6 @@ class User extends Password {
       'name': name,
       'age': age,
       'height': height,
-      'user_password': user_password,
     };
   }
 
@@ -30,7 +29,7 @@ class User extends Password {
       id: userJson['id'] ?? 0,
       name: userJson['name'] ?? '',
       age: userJson['age'] ?? 0,
-      height: userJson['height']?.toDouble() ?? 0.0,
+      height: (userJson['height']?.toDouble() ?? 0.0),
       user_password: userJson['user_password'] ?? '',
     );
   }
