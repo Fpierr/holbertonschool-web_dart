@@ -35,6 +35,6 @@ class User {
   // Method toString to display
   @override
   String toString() {
-    return 'User(id : $id ,name: $name,  age: $age, height: $height)';
+    return 'User(id : $id ,name: $name, age: $age, height: $height)';
   }
 }
