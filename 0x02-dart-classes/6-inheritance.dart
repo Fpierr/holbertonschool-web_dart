@@ -22,7 +22,6 @@ class User extends Password {
       'age': age,
       'height': height,
       'user_password': user_password,
-      'Password': isValid(),
     };
   }
 
