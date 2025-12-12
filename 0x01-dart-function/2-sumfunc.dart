@@ -9,5 +9,5 @@ int sub(int a, int b) {
 String showFunc(int a, int b) {
   int sum = add(a, b);
   int substraction = sub(a, b);
-  return ('Add $a + $b = $sum\nSub $a + $b = $substraction');
+  return ('Add $a + $b = $sum\nSub $a - $b = $substraction');
 }
